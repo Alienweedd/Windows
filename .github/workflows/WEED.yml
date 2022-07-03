@@ -1,5 +1,3 @@
-Chave: NGROK_AUTH_TOKEN
-2BRCHRFxf5V1q03JTzsHgkBRjAh_43pfH9SQM1UdfAmqYKsPN
 name: amazonRDP
 
 on: workflow_dispatch
